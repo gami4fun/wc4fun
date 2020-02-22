@@ -1,2 +1,2 @@
 # wc4fun
-for web computing project
+hello world ! bithub is great
